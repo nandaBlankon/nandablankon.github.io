@@ -1,0 +1,41 @@
+<style type="text/css">
+	h1 {
+		color: red;
+	}
+
+	button {
+		color: white;
+		background-color: red;
+	}
+
+	p #satu {
+		color:red;
+		background-color: yellow;
+	}
+
+	p #dua {
+		color: yellow;
+		background-color: red;
+	}
+
+	#tiga {
+		color: blue;
+		font-size: 24px;
+	}
+
+	ul {
+		font-size: 32;
+	}
+
+	.pertama {
+		color: red;
+	}
+
+	.kedua {
+		color: blue;
+	}
+
+	.ketiga {
+		color: green;
+	}
+</style>
